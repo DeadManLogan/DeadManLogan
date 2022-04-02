@@ -1,4 +1,4 @@
-### Hi there, I'm Dimos - aka FennecFoxDev 👋 
+### Hi there, I'm FennecFoxDev 👋 
 
 ## I'm a Developer, Athlete wannabe and Gamer!!
 
