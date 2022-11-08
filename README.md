@@ -2,9 +2,8 @@
 
 ## I'm a Developer, Athlete wannabe and Gamer!!
 
-- 📖 Currently learning React
+- 📖 Currently learning React and CSS
 - ☁️ Trying to master Cloud
-- 🏃 2022 Goal: Run my first marathon
 
 ### Languages and Tools:
 
