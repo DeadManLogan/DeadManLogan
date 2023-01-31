@@ -1,8 +1,8 @@
-### Hi there, I'm FennecFoxDev 👋 
+### Hi there, I'm Dimos 👋 
 
-## I'm a Developer, Athlete wannabe and Gamer!!
+## I'm a Developer, a Geek and a wannabe Athlete!!
 
-- 📖 Currently learning React and CSS
+- 📖 Currently studying linear algebra
 - ☁️ Trying to master Cloud
 
 ### Languages and Tools:
