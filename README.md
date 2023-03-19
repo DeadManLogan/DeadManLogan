@@ -2,7 +2,7 @@
 
 ## I'm a Developer, a Geek and a wannabe Athlete!!
 
-- 📖 Currently studying linear algebra
+- 📖 Currently studying Azure and C#
 - ☁️ Trying to master Cloud
 
 ### Languages and Tools:
