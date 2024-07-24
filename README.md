@@ -1,4 +1,4 @@
-### Hi there, I'm Dimos 👋 
+### Hi there, I'm Dimosthenis 👋 
 
 ## I'm a Developer, a Geek and a wannabe Athlete!!
 
